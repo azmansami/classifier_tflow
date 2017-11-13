@@ -94,7 +94,7 @@ Learning rate of 0.005 seems to be a good compromise between speed and accuracy 
 
 ### Changing weights biases <a name="wb"><a/>
 
-We can observe how our weights and biases have changed over multiple steps (1000 in this case) of the training phase as losses minimizes. Note, most of our weights are closed to zero as there are very pixels that actually contribute in making a digit (most of the pixels forms the background).
+We can observe how our weights and biases have changed over multiple steps (1000 in this case) of the training phase as losses minimizes. Note, most of our weights are closed to zero as there are very few pixels that actually contribute in making a digit (most of the pixels forms the background).
 
 ![](./readme.imgs/wb1.png)
 
