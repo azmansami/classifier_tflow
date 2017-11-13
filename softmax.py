@@ -56,7 +56,6 @@ merged=tf.summary.merge_all()
 
 
 for learning_rate in [0.002,0.005,0.008]:
-    # training with learning rate of 0.005
     # init
     init = tf.global_variables_initializer()
     sess = tf.Session()
