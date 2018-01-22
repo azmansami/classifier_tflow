@@ -6,10 +6,10 @@
 1. [Usage](#usage)
 2. [Dependency](#dependency)
 3. [Computational Graph](#thegraph)
-    1. [Input](#input)
-    2. [The Model](#model)
-    3. [Minimizing loss and Improving Accuracy](#lossaccur)
-    4. [Changing weight and bias](#wb)
+4. [Input](#input)
+5. [The Model](#model)
+6. [Minimizing loss and Improving Accuracy](#lossaccur)
+7. [Changing weight and bias](#wb)
 
 
 
